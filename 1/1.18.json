@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://raw.githubusercontent.com/ScratchAddons/manifest-schema/master/1/1.17.json",
+  "$id": "https://raw.githubusercontent.com/lisa-wolfgang/manifest-schema/sa-nightly/1/1.18.json",
   "title": "Scratch Addons addon manifest",
   "description": "The manifest that describes an addon.",
   "type": "object",
