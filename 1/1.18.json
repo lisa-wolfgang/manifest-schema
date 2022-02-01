@@ -353,7 +353,7 @@
           "easterEgg",
           "codeEditor",
           "costumeEditor",
-          "projectPlayer",
+          "player",
           "editorMenuBar",
           "projectPage",
           "profiles",
@@ -362,7 +362,7 @@
         ]
       },
       "contains": {
-        "enum": ["community", "editor", "popup"]
+        "enum": ["community", "editor", "popup", "player"]
       },
       "minItems": 1
     },
